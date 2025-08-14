@@ -93,7 +93,7 @@
     "axios": "^1.7.7",
     "bcrypt": "^5.1.1",
     "bufferutil": "^4.0.8",
-    "bullmq": "^5.12.12",
+    "bullmq": "^5.56.5",
     "canvas": "^2.11.2",
     "chart.js": "^4.4.1",
     "class-transformer": "^0.5.1",
